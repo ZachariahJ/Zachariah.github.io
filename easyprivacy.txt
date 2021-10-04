@@ -6,11 +6,6 @@
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
-!
-! Please report any unblocked tracking or problems
-! in the forums (https://forums.lanik.us/)
-! or via e-mail (easylist@protonmail.com).
-!
 !-----------------General tracking systems-----------------!
 ! *** easylist:easyprivacy/easyprivacy_general.txt ***
 &action=confection_send_data&
